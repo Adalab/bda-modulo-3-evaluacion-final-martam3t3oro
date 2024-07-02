@@ -1,8 +1,10 @@
-# EJERCICIO EVALUACIÓN FINAL 
+# EJERCICIO EVALUACIÓN FINAL MÓDULO 3 DE DATA ANALYTICS 
 
 Ejercicicio ELT para evaluación final del módulo 3
 
 ## Descripción
+
+Sobre una base de datos de clientes de una compañía aérea en Canadá:
 
 * Fase 1: Exploración y Limpieza
 * Fase 2: Visualización
@@ -10,7 +12,7 @@ Ejercicicio ELT para evaluación final del módulo 3
 
 ## Instrucciones
 
-El repositorio contiene un archivo .ipynb y dos archivos .csv de los que bebe el .ipynb
+El repositorio contiene un archivo .ipynb y tres archivos .csv, dos de los cuales bebe el .ipynb (Customer Flight Activity.csv y Customer Loyalty History.csv)
 
 ## Autoría
 Marta García Palomo, alumna promo Angela de Adalab 
